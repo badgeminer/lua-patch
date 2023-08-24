@@ -1,4 +1,3 @@
-#!/usr/bin/env lua
 -- patch.lua - Patch utility to apply unified diffs
 --
 -- http://lua-users.org/wiki/LuaPatch
